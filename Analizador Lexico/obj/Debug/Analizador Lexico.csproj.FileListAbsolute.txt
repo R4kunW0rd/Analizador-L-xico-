@@ -1,0 +1,11 @@
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.Form1.resources
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.Properties.Resources.resources
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.pdb
+C:\Users\lalo1\source\repos\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.exe.config
